@@ -1,6 +1,6 @@
 <h1 align="center"> Aplicativo de Sorteio de dados <h1>
 
-<h1> <img src="image.jpeg" alt=""> <h1>
+<h1> <img src="image.jpeg" alt="" width=200px height=300px > <h1>
 
 
 # Indice
